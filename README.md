@@ -1,3 +1,5 @@
+#Create React App Redux Starter Kit
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [Redux](https://redux.js.org), [React Router](https://reacttraining.com/react-router).
 
 ## Available Scripts
